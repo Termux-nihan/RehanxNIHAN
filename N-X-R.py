@@ -454,7 +454,6 @@ class Main:
             'method': 'page',
             'scheme': 'https', 
             'authority': 'developer.facebook.com',
-            'x-fb-rlaf'. '0',
             'access-control-allow-origin': '*',
             'facebook-api-version': 'v17.0',
             'strict-transport-security': 'max-age=15552000',
